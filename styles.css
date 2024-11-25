@@ -1,0 +1,25 @@
+button {
+
+    background-color: grey; /* Color inicial del botón */
+  
+    color: white;
+  
+    padding: 10px 20px;
+  
+    border: none;
+  
+    cursor: pointer;
+  transition-duration: 500ms;
+  }
+  
+  button:hover {
+  
+    background-color: blue; /* Color del botón cuando el ratón pasa por encima */
+    color: rgba(238, 30, 30, 0.87);
+  
+    padding: 20px 20px;
+  
+    border: solid;
+  
+    cursor: pointer;
+  }
